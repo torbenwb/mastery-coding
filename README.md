@@ -1,7 +1,4 @@
-# Mastery Coding
-A collection of the projects I've worked on for Mastery Coding
-
-## MC Game Development 1 Course Projects
+# MC Game Development 1 Course Projects
 
 A selection of the Unity game development projects I have worked on for Mastery Coding's Game Development pathway.
 
@@ -9,7 +6,7 @@ Each project was:
 * Designed to be intuitive to first-time Unity users / students.
 * Tested for usability and reliability with implementation in 800+ classrooms nationwide.
 
-### Unit 1 Project: Car Game
+## Unit 1 Project: Car Game
 
 <div display=flex flexDirection=row justifyContent=center> 
   <img src="https://github.com/torbenwb/torbenwb/blob/main/assets/gd1-unit-1/u1-1.gif" width=320 height=240/>
@@ -20,12 +17,12 @@ Each project was:
 
 [Repository](https://github.com/torbenwb/mc-gd1-unit-1)
 
-An educational project used by students in Mastery Coding's Game Development 1 course. This project is structured and designed to be intuitive to students and first-time users of Unity.
+The *Car Game* project is used by students in Mastery Coding's Game Development 1 course. This project is structured and designed to be intuitive to students and first-time users of Unity.
 
 * Designed and implemented graphics: low-poly aesthetics, 3D modeling, post-processing effects, and particle systems.
 * Designed an intuitive user interface capable of seamlessly handling input from mouse, keyboard, and gamepad devices.
 
-### Unit 4 Project: Castle Attack
+## Unit 4 Project: Castle Attack
 
 <div display=flex flexDirection=row justifyContent=center> 
   <img src="https://github.com/torbenwb/torbenwb/blob/main/assets/gd1-unit-4/u4-1.gif" width=320 height=240/>
@@ -36,12 +33,12 @@ An educational project used by students in Mastery Coding's Game Development 1 c
 
 [Repository](https://github.com/torbenwb/mc-gd1-unit-4)
 
-This project is an educational project used by students in Mastery Coding’s Game Development 1 course. The project structure is designed to be intuitive to students new to Unity. This project introduces students to the Unity scripting API, the MonoBehaviour lifecycle, and the Unity physics system.
+The *Castle Attack* project is an educational project used by students in Mastery Coding’s Game Development 1 course. The project structure is designed to be intuitive to students new to Unity. This project introduces students to the Unity scripting API, the MonoBehaviour lifecycle, and the Unity physics system.
 
 * Developed and implemented graphics, including low-poly aesthetics, 3D modeling, post-processing effects, and particle systems.
 * Wrote gameplay and game state management scripts.
 
-### Unit 5 Project: Mojave Runner
+## Unit 5 Project: Mojave Runner
 
 <div display=flex flexDirection=row justifyContent=center> 
   <img src="https://github.com/torbenwb/mc-gd1-unit-5/blob/main/readme-assets/u5-1.gif" width=320 height=240/>
@@ -53,7 +50,7 @@ The *Mojave Runner* project teaches students how to build a 2D sidescrolling pla
 
 [Repository](https://github.com/torbenwb/mc-gd1-unit-5)
 
-### Unit 6 Project: Alchemy Lab
+## Unit 6 Project: Alchemy Lab
 
 
 <div display=flex flexDirection=row justifyContent=center> 
@@ -70,6 +67,16 @@ The *Alchemy Lab* project teaches students how to build a first-person interacti
 * Implemented first-person camera and movement control using Unity C# Scripting API.
 * Implemented event-driven architecture to handle player interactions and objectives.
 
+## Unit 7 Project: Tower Defense
 
+<div display=flex flexDirection=row justifyContent=center> 
+  <img src="https://github.com/torbenwb/mc-gd1-unit-7/blob/main/readme-assets/u7-2.gif" width=320 height=240/>
+  <img src="https://github.com/torbenwb/mc-gd1-unit-7/blob/main/readme-assets/u7-3.gif" width=320 height=240/>
+</div>
 
+The *Tower Defense* project teaches students how to build a top-down tower defense game while introducing students to data structures.
+
+* Implemented a scalable enemy customization system using Unity's Scriptable Objects
+* Responsible for graphics and visual design including post-processing, 3D modeling and animation.
+* Designed and implemented responsive and intuitive UI.
 
