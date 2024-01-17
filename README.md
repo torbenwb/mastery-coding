@@ -74,6 +74,10 @@ The *Alchemy Lab* project teaches students how to build a first-person interacti
   <img src="https://github.com/torbenwb/mc-gd1-unit-7/blob/main/readme-assets/u7-3.gif" width=320 height=240/>
 </div>
 
+[Playable WebGL Demo](https://torbenwb.github.io/mc-gd1-unit-7-webgl-build/)
+
+[Repository[(https://github.com/torbenwb/mc-gd1-unit-7)
+
 The *Tower Defense* project teaches students how to build a top-down tower defense game while introducing students to data structures.
 
 * Implemented a scalable enemy customization system using Unity's Scriptable Objects
